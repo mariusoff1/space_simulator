@@ -57,7 +57,7 @@ An interactive 3D simulation of the Solar System that runs in the browser. Plane
 ├── physics.js        # Gravity, integration and revolution tracking
 ├── planetsData.js    # Data for each planet (size, distance, texture, trail color...)
 ├── ui.js             # Raycasting, camera focus/follow and telemetry panel
-└── textures/         # Image assets (not included in the code files)
+└── textures/         # Image assets (included in the code files)
 ```
 
 ## How it works
