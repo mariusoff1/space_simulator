@@ -122,12 +122,6 @@ The code expects the following files in a `textures/` folder:
 
 If a planet or moon texture is missing, it falls back to a grey material. The Sun, the star field and Saturn's ring have no fallback, so make sure those files are present. Free planetary maps can be found, for example, on [Solar System Scope](https://www.solarsystemscope.com/textures/).
 
-## Built with
-
-- [Three.js](https://threejs.org/) r128 (including `OrbitControls`)
-- [Tween.js](https://github.com/tweenjs/tween.js) 18.6.4
-- Vanilla JavaScript (ES modules), HTML and CSS
-
 ## Limitations
 
 - Distances, sizes, masses and speeds are **not to scale**; the goal is a readable and stable visualization, not astronomical accuracy.
